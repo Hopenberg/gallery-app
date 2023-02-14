@@ -6,6 +6,7 @@
 - Utwórz bazę o nazwie gallery
 - Skopiuj plik .env.example i nazwij go .env
 - Wykonaj komendę ``` php artisan key:generate ```
+- Wykonaj komendę ``` php artisan migrate ```
 - Wykonaj komendę ``` php artisan serve ```
 - Aplikacja jest dostępna pod adresem http://localhost:8000
 
